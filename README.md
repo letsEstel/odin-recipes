@@ -1,2 +1,1 @@
-Here I will show some
-HTML skills.
+Here I will show some HTML skills.
